@@ -1,6 +1,14 @@
 # Repository
 
 
+# Home
+
+This is the home page of my website.
+
+Here you can see a list of my github repositories. Check my [github profile](https://github.com/Ricard31) or contact me on [Linkedin](https://www.linkedin.com/in/ricard-data-scientist/) for more information.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ricard31/ricard31.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
