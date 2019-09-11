@@ -1,6 +1,6 @@
 # Repository
 
-Posible tema que utilizar: https://github.com/jamigibbs/phantom
+Posible tema que utilizar: [enlace](https://github.com/jamigibbs/phantom)
 
 
 ## Vídeo tutorial
