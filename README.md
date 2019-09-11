@@ -1,6 +1,10 @@
 # Repository
 
-Posible tema que utilizar: [enlace](https://github.com/jamigibbs/phantom)
+* Posible tema que utilizar: [enlace](https://github.com/jamigibbs/phantom)
+
+* Tutorial avanzado de como usar github pages y jekyll: [enlace](http://jmcglone.com/guides/github-pages/)
+
+* Colección de temas: [enlace](https://github.com/collections/github-pages-examples)
 
 
 ## Vídeo tutorial
