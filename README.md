@@ -6,6 +6,8 @@
 
 * Colección de temas: [enlace](https://github.com/collections/github-pages-examples)
 
+* R blogdown:  https://amber.rbind.io/2016/12/19/website/#building-the-page
+
 
 ## Vídeo tutorial
 [![Tutorial](https://img.youtube.com/vi/Wna1D_5hu38/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wna1D_5hu38)
