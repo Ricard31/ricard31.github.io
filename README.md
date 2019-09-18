@@ -1,13 +1,21 @@
 # Repository
 
+# Getting started
+
+## Tutorials
+
+* R blogdown:  https://amber.rbind.io/2016/12/19/website/#building-the-page
+
+* Extensive [tutorial](http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html) on website creation with R.
+
+
+## Some things for later 
+
 * Posible tema que utilizar: [enlace](https://github.com/jamigibbs/phantom)
 
 * Tutorial avanzado de como usar github pages y jekyll: [enlace](http://jmcglone.com/guides/github-pages/)
 
 * Colección de temas: [enlace](https://github.com/collections/github-pages-examples)
-
-* R blogdown:  https://amber.rbind.io/2016/12/19/website/#building-the-page
-
 
 ## Vídeo tutorial
 [![Tutorial](https://img.youtube.com/vi/Wna1D_5hu38/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wna1D_5hu38)
